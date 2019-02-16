@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{336D155A-D83B-48EE-BC32-ECB41C2D586A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Document/Document.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Projects/Document/Document/Document.cs">
     <Files>
-      <File FileName="Document/Document.cs" Line="36" Column="1" />
+      <File FileName="../../Projects/Document/Document/Document.cs" Line="35" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
